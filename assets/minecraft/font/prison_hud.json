@@ -5,14 +5,14 @@
       "file": "minecraft:font/hud_tokens.png",
       "ascent": 7,
       "height": 9,
-      "chars": [""]
+      "chars": [""]
     },
     {
       "type": "bitmap",
       "file": "minecraft:font/hud_gang.png",
       "ascent": 7,
       "height": 9,
-      "chars": [""]
+      "chars": [""]
     }
   ]
 }
