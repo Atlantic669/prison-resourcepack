@@ -13,6 +13,13 @@
       "ascent": 7,
       "height": 9,
       "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/hud_prestige.png",
+      "ascent": 7,
+      "height": 9,
+      "chars": [""]
     }
   ]
 }
