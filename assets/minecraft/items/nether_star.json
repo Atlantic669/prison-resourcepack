@@ -1,0 +1,31 @@
+{
+	"model": {
+		"type": "minecraft:range_dispatch",
+		"property": "minecraft:custom_model_data",
+		"index": 0,
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/nether_star"
+		},
+		"entries": [
+			{"threshold": 20011, "model": {"type": "minecraft:model", "model": "horizonprison:item/awaken/duel_a_mort"}},
+			{"threshold": 20012, "model": {"type": "minecraft:model", "model": "horizonprison:item/awaken/saignement"}},
+			{"threshold": 20013, "model": {"type": "minecraft:model", "model": "horizonprison:item/awaken/parade"}},
+			{"threshold": 20014, "model": {"type": "minecraft:model", "model": "horizonprison:item/awaken/lame_agile"}},
+			{"threshold": 20015, "model": {"type": "minecraft:model", "model": "horizonprison:item/awaken/dernier_souffle"}},
+			{"threshold": 20016, "model": {"type": "minecraft:model", "model": "horizonprison:item/awaken/inebranlable"}},
+			{"threshold": 20017, "model": {"type": "minecraft:model", "model": "horizonprison:item/awaken/seisme"}},
+			{"threshold": 20018, "model": {"type": "minecraft:model", "model": "horizonprison:item/awaken/peau_de_fer"}},
+			{"threshold": 20019, "model": {"type": "minecraft:model", "model": "horizonprison:item/awaken/sang_pour_sang"}},
+			{"threshold": 20020, "model": {"type": "minecraft:model", "model": "horizonprison:item/awaken/riposte_lourde"}},
+			{"threshold": 20021, "model": {"type": "minecraft:model", "model": "horizonprison:item/awaken/vent_arriere"}},
+			{"threshold": 20022, "model": {"type": "minecraft:model", "model": "horizonprison:item/awaken/contre_attaque"}},
+			{"threshold": 20023, "model": {"type": "minecraft:model", "model": "horizonprison:item/awaken/maree_vitale"}},
+			{"threshold": 20024, "model": {"type": "minecraft:model", "model": "horizonprison:item/awaken/repli_eclair"}},
+			{"threshold": 20025, "model": {"type": "minecraft:model", "model": "horizonprison:item/awaken/precision_mortelle"}},
+			{"threshold": 20026, "model": {"type": "minecraft:model", "model": "horizonprison:item/awaken/elan_brise"}},
+			{"threshold": 20027, "model": {"type": "minecraft:model", "model": "horizonprison:item/awaken/sang_du_lancier"}},
+			{"threshold": 20028, "model": {"type": "minecraft:model", "model": "horizonprison:item/awaken/garde_avancee"}}
+		]
+	}
+}

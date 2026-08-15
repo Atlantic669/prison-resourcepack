@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "horizonprison:item/awaken/peau_de_fer"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/nether_star"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 20011}, "model": "horizonprison:item/awaken/duel_a_mort"},
+		{"predicate": {"custom_model_data": 20012}, "model": "horizonprison:item/awaken/saignement"},
+		{"predicate": {"custom_model_data": 20013}, "model": "horizonprison:item/awaken/parade"},
+		{"predicate": {"custom_model_data": 20014}, "model": "horizonprison:item/awaken/lame_agile"},
+		{"predicate": {"custom_model_data": 20015}, "model": "horizonprison:item/awaken/dernier_souffle"},
+		{"predicate": {"custom_model_data": 20016}, "model": "horizonprison:item/awaken/inebranlable"},
+		{"predicate": {"custom_model_data": 20017}, "model": "horizonprison:item/awaken/seisme"},
+		{"predicate": {"custom_model_data": 20018}, "model": "horizonprison:item/awaken/peau_de_fer"},
+		{"predicate": {"custom_model_data": 20019}, "model": "horizonprison:item/awaken/sang_pour_sang"},
+		{"predicate": {"custom_model_data": 20020}, "model": "horizonprison:item/awaken/riposte_lourde"},
+		{"predicate": {"custom_model_data": 20021}, "model": "horizonprison:item/awaken/vent_arriere"},
+		{"predicate": {"custom_model_data": 20022}, "model": "horizonprison:item/awaken/contre_attaque"},
+		{"predicate": {"custom_model_data": 20023}, "model": "horizonprison:item/awaken/maree_vitale"},
+		{"predicate": {"custom_model_data": 20024}, "model": "horizonprison:item/awaken/repli_eclair"},
+		{"predicate": {"custom_model_data": 20025}, "model": "horizonprison:item/awaken/precision_mortelle"},
+		{"predicate": {"custom_model_data": 20026}, "model": "horizonprison:item/awaken/elan_brise"},
+		{"predicate": {"custom_model_data": 20027}, "model": "horizonprison:item/awaken/sang_du_lancier"},
+		{"predicate": {"custom_model_data": 20028}, "model": "horizonprison:item/awaken/garde_avancee"}
+	]
+}
