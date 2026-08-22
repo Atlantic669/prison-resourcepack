@@ -1,6 +1,13 @@
 {
+  "format_version": "1.21.11",
+  "credit": "Made with Blockbench",
+  "texture_size": [
+    32,
+    32
+  ],
   "textures": {
-    "0": "horizonprison:item/pickaxe/golden_pickaxe"
+    "0": "horizonprison:item/pickaxe/golden_pickaxe",
+    "particle": "horizonprison:item/pickaxe/golden_pickaxe"
   },
   "elements": [
     {
