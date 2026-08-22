@@ -1,11 +1,18 @@
 {
   "providers": [
     {
-      "type": "ttf",
-      "file": "minecraft:font/prison_text.ttf",
-      "shift": [0.0, 0.0],
-      "size": 11.0,
-      "oversample": 4.0
+      "type": "bitmap",
+      "file": "minecraft:font/prison_text_ascii.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": [
+        " !\"#$%&'()*+,-./",
+        "0123456789:;<=>?",
+        "@ABCDEFGHIJKLMNO",
+        "PQRSTUVWXYZ[\\]^_",
+        "`abcdefghijklmno",
+        "pqrstuvwxyz{|}~é"
+      ]
     },
     {
       "type": "reference",
