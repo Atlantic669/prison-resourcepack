@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/menu_esc_bg.png",
+      "ascent": 0,
+      "height": 200,
+      "chars": [
+        ""
+      ]
+    }
+  ]
+}
