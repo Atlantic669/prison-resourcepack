@@ -53,15 +53,6 @@
       "chars": [
         ""
       ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/hud_background.png",
-      "ascent": 29,
-      "height": 48,
-      "chars": [
-        ""
-      ]
     }
   ]
 }
