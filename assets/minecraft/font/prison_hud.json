@@ -3,8 +3,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/hud_tokens.png",
-      "ascent": 9,
-      "height": 12,
+      "ascent": 13,
+      "height": 17,
       "chars": [
         ""
       ]
@@ -12,8 +12,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/hud_gang.png",
-      "ascent": 9,
-      "height": 12,
+      "ascent": 13,
+      "height": 17,
       "chars": [
         ""
       ]
@@ -21,8 +21,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/hud_prestige.png",
-      "ascent": 9,
-      "height": 12,
+      "ascent": 13,
+      "height": 17,
       "chars": [
         ""
       ]
@@ -30,8 +30,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/hud_gems.png",
-      "ascent": 9,
-      "height": 12,
+      "ascent": 13,
+      "height": 17,
       "chars": [
         ""
       ]
@@ -39,8 +39,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/hud_pet.png",
-      "ascent": 9,
-      "height": 12,
+      "ascent": 13,
+      "height": 17,
       "chars": [
         ""
       ]
@@ -48,8 +48,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/hud_shards.png",
-      "ascent": 9,
-      "height": 12,
+      "ascent": 13,
+      "height": 17,
       "chars": [
         ""
       ]
