@@ -2,11 +2,14 @@
   "providers": [
     {
       "type": "ttf",
-      "file": "minecraft:Monocraft.ttf",
-      "size": 9.5,
-      "oversample": 1.0,
-      "shift": [0.0, 0.5],
-      "skip": []
+      "file": "minecraft:monocraft_regular.ttf",
+      "shift": [0.0, -2.0],
+      "size": 11.0,
+      "oversample": 1.0
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:default"
     }
   ]
 }
