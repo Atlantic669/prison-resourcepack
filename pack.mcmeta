@@ -1,6 +1,7 @@
 {
   "pack": {
     "pack_format": 75,
-    "description": "HorizonPrizon - Icones HUD (tokens, gang)"
+    "supported_formats": { "min_inclusive": 46, "max_inclusive": 99 },
+    "description": "HorizonPrizon — HUD (icônes tokens/gems/shards/gang/prestige/pet)"
   }
 }
