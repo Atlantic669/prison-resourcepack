@@ -3,10 +3,11 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/hud_panel.png",
-      "_comment": "Panneau de fond du HUD. PNG 880x48 -> rendu ~440x24 a height 24. ascent 16 ~ centre de la ligne de texte bossbar (ajuster visuellement si besoin).",
       "ascent": 16,
       "height": 24,
-      "chars": [""]
+      "chars": [
+        ""
+      ]
     }
   ]
 }
