@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "horizonprison:demonite_halloween"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "horizonprison:demonite_halloween"
+      }
+    ]
+  }
+}
