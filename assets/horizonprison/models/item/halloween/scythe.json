@@ -169,7 +169,11 @@
 	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [-66.6, 84.74, 84.22],
+			"rotation": [0, 90, 0],
+			"translation": [-0.25, 3.25, -3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, 0],
 			"translation": [-0.25, 3.25, -3]
 		},
 		"firstperson_righthand": {
