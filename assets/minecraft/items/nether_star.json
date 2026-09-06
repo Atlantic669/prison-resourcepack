@@ -25,7 +25,10 @@
 			{"threshold": 20025, "model": {"type": "minecraft:model", "model": "horizonprison:item/awaken/precision_mortelle"}},
 			{"threshold": 20026, "model": {"type": "minecraft:model", "model": "horizonprison:item/awaken/elan_brise"}},
 			{"threshold": 20027, "model": {"type": "minecraft:model", "model": "horizonprison:item/awaken/sang_du_lancier"}},
-			{"threshold": 20028, "model": {"type": "minecraft:model", "model": "horizonprison:item/awaken/garde_avancee"}}
+			{"threshold": 20028, "model": {"type": "minecraft:model", "model": "horizonprison:item/awaken/garde_avancee"}},
+			{"threshold": 20030, "model": {"type": "minecraft:model", "model": "horizonprison:item/awaken/tir_initial"}},
+			{"threshold": 20031, "model": {"type": "minecraft:model", "model": "horizonprison:item/awaken/retrait_vif"}},
+			{"threshold": 20034, "model": {"type": "minecraft:model", "model": "horizonprison:item/awaken/sang_froid_arbalete"}}
 		]
 	}
 }
