@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "horizonprison:item/halloween/shovel",
 		"1": "horizonprison:item/halloween/demonite_texture",
-		"2": "horizonprison:item/halloween/shovel2"
+		"2": "horizonprison:item/halloween/demonite_texture2"
 	},
 	"elements": [
 		{
