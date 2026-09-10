@@ -3,8 +3,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/hud_chip_small.png",
-      "ascent": 15,
-      "height": 20,
+      "ascent": 12,
+      "height": 14,
       "chars": [
         ""
       ]
@@ -12,8 +12,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/hud_chip_wide.png",
-      "ascent": 15,
-      "height": 20,
+      "ascent": 12,
+      "height": 14,
       "chars": [
         ""
       ]
